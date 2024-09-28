@@ -36,10 +36,10 @@ bash
 ```python app.py```
 Open your browser and navigate to http://127.0.0.1:5000/ to access the application.
 
-##Usage
+## Usage
 Enter a base number in the "**Enter a Number**" field.
 Specify how many times you want to multiply that number in the "Upto how many times?" field.
 Click the "**Generate Table**" button to display the multiplication table.
 
-##Contribution
+## Contribution
 Feel free to contribute to this project by submitting a pull request or opening an issue for any suggestions or improvements!
