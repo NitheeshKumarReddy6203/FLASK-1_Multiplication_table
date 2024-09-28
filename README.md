@@ -31,11 +31,12 @@ bash
 ## Install Flask:
 bash
 ```pip install flask```
-Run the application:
+
+## Run the application:
 
 bash
 ```python app.py```
-Open your browser and navigate to http://127.0.0.1:5000/ to access the application.
+*Open your browser and navigate to http://127.0.0.1:5000/ to access the application.
 
 ## Usage
 Enter a base number in the "**Enter a Number**" field.
