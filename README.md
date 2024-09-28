@@ -21,7 +21,8 @@ Used for creating the structure and styling of the web page.
 * Python 3.x installed on your machine.
 * pip for installing Flask.
 * Installation
-* Clone the repository:
+  
+## Clone the repository :
 
 bash
 ``` git clone https://github.com/your-username/multiplication-table-app.git ```
