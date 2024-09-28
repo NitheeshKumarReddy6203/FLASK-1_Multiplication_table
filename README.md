@@ -1,33 +1,33 @@
-#Flask Multiplication Table Application
-##Overview
+# Flask Multiplication Table Application
+## Overview
 This is a simple Flask web application that allows users to generate a multiplication table based on their input. Users can enter a base number and specify how many times to multiply that number (e.g., 2 up to 20). The application then dynamically generates and displays the multiplication table on the web page.
 
-##Features
+## Features
 User-friendly input form for entering a base number and a range.
 Dynamic generation of multiplication tables based on user input.
 Stylish presentation with alternating row colors for better readability.
 Responsive design that centers content vertically and horizontally.
 
-##Technologies Used
-###Python: 
+## Technologies Used
+### Python: 
 The backend programming language used for the Flask application.
-###Flask:
+### Flask:
 A lightweight WSGI web application framework in Python.
-###HTML/CSS:
+### HTML/CSS:
 Used for creating the structure and styling of the web page.
-###Getting Started
+### Getting Started
 
-##Prerequisites
+## Prerequisites
 Python 3.x installed on your machine.
 pip for installing Flask.
 Installation
 Clone the repository:
 
 bash
-```git clone https://github.com/your-username/multiplication-table-app.git```
-```cd multiplication-table-app```
-Install Flask:
+``` git clone https://github.com/your-username/multiplication-table-app.git ```
+``` cd multiplication-table-app ```
 
+## Install Flask:
 bash
 ```pip install flask```
 Run the application:
